@@ -1,5 +1,4 @@
 # MyPrograms
-Os meus melhores projetos aqui!
 let cor;
 let posicaoHorizontal // x
 let posicaoVertical // y
